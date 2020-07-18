@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Alena Tskhondiya</title>
+    <link>http://AlenaTskh.github.io/AlenaTskhondiya_Portfolio/post/</link>
+    <description>Recent content in Projects on Alena Tskhondiya</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://AlenaTskh.github.io/AlenaTskhondiya_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Excel.</title>
+      <link>http://AlenaTskh.github.io/AlenaTskhondiya_Portfolio/post/project-5/</link>
+      <pubDate>Mon, 01 Jun 2020 11:15:58 -0400</pubDate>
+      
+      <guid>http://AlenaTskh.github.io/AlenaTskhondiya_Portfolio/post/project-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Power BI. Interactive dashboards and </title>
+      <link>http://AlenaTskh.github.io/AlenaTskhondiya_Portfolio/post/project-3/</link>
+      <pubDate>Fri, 01 May 2020 11:25:05 -0400</pubDate>
+      
+      <guid>http://AlenaTskh.github.io/AlenaTskhondiya_Portfolio/post/project-3/</guid>
+      <description>  </description>
+    </item>
+    
+    <item>
+      <title>Tableau. Interactive dashboards and storylines</title>
+      <link>http://AlenaTskh.github.io/AlenaTskhondiya_Portfolio/post/project-2/</link>
+      <pubDate>Wed, 01 Apr 2020 11:25:05 -0400</pubDate>
+      
+      <guid>http://AlenaTskh.github.io/AlenaTskhondiya_Portfolio/post/project-2/</guid>
+      <description>This is the laundry-pickup service startup WeWashUSleep project. The company&amp;rsquo;s strategy is to build a vast network in smaller cities. WeWashUSleep already had a strong percentage in 140 locations and recently opened stores in 10 new cities. Additionally, the company has two separate sales regions. For this project I implemented the following tasks:
+ Identify which of the two sales regions in performing better (i.e. outperforms the other in two of the following 3 metrics):   Average Revenue per city Average Marketing spend per city Average ROMI(Return on marketing investment) per city    Link to Tableau Public</description>
+    </item>
+    
+    <item>
+      <title>SQL. Analyzing Data and resolving business questions</title>
+      <link>http://AlenaTskh.github.io/AlenaTskhondiya_Portfolio/post/project-4/</link>
+      <pubDate>Wed, 01 Jan 2020 11:25:05 -0400</pubDate>
+      
+      <guid>http://AlenaTskh.github.io/AlenaTskhondiya_Portfolio/post/project-4/</guid>
+      <description>What Genre Of Music Sells The Most Tracks In The USA?  o	Write a query that returns each genre, with the number of tracks sold in absolute numbers and in percentages. o	Create a plot to show this data. o	Write a paragraph that interprets the data and makes a recommendation for the three artists whose albums we should purchase for the store, based on sales of tracks from their genres.</description>
+    </item>
+    
+    <item>
+      <title>Python. Statistic methods</title>
+      <link>http://AlenaTskh.github.io/AlenaTskhondiya_Portfolio/post/project-1/</link>
+      <pubDate>Fri, 01 Nov 2019 11:25:05 -0400</pubDate>
+      
+      <guid>http://AlenaTskh.github.io/AlenaTskhondiya_Portfolio/post/project-1/</guid>
+      <description>This project shows knowledge of the most widely used methods:
+ Linear regression: explains linear regression model on the example of Boston housing data Logistic regression: gender classification example on weight-height data Naive Bayes: using Multinomial Naive Bayes for text analysis of movie ratings Clusternig: K-Means algorithm for customer clustering based on their responses to marketing compaigns.    Link to Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>http://AlenaTskh.github.io/AlenaTskhondiya_Portfolio/post/project-6/</link>
+      <pubDate>Fri, 14 Apr 2017 11:25:05 -0400</pubDate>
+      
+      <guid>http://AlenaTskh.github.io/AlenaTskhondiya_Portfolio/post/project-6/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
